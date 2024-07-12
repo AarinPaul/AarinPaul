@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm AARIN PAUL</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29ybG5wODZoaTJiMjA3NnA4eGt2bmZzYWo5YnlmaThsaHp3cWdiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarinpaul&label=Profile%20views&color=0e75b6&style=flat" alt="aarinpaul" /> </p>
